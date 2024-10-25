@@ -1,0 +1,33 @@
+{
+  "name": "Doodle",
+  "displayName": "Doodle",
+  "expo": {
+    "name": "Doodle",
+    "displayName": "Doodle",
+    "autolinking": {
+      "exclude": ["expo-splash-screen"]
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "extraMavenRepos": [
+              "../../node_modules/@notifee/react-native/android/libs"
+            ]
+          },
+          "ios": {}
+        }
+      ]
+    ],
+    "slug": "doodle",
+    "version": "4.5.0",
+    "sdkVersion": "51.0.0",
+    "android": {
+      "minSdkVersion": 24,
+      "package": "com.doodle",
+      "versionCode": 60
+    },
+    "platforms": ["ios", "android"]
+  }
+}
