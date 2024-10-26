@@ -20,7 +20,7 @@ But in our case we are not asking any amounts of membership and we are not colle
 There is not limit for getting new movies no need multiple platfors of websites for watching movies all are in a single platform .
 
 ### The Solution (that nobody asked for)
-We are collecting all kind of free movies websites and add this all webserver in to an app through api , and we can access all free movies in asingle app .
+We are collecting all kind of free movies from providers and add this all webserver in to an app through api . And we can access all free movies in a single app .
 
 ## Technical Details
 ### Technologies/Components Used
