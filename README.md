@@ -44,11 +44,11 @@ npm run android
 For Software:
 
 # Screenshots (Add at least 3)
-![[Home page](https://imgur.com/a/eZN9xib)]
+[[Home page](https://imgur.com/a/eZN9xib)]
 
-![[Search Result](https://imgur.com/a/q15ZCB2)]
+[[Search Result](https://imgur.com/a/q15ZCB2)]
 
-![[Settings](https://imgur.com/a/5qlq2Kh)]
+[[Settings](https://imgur.com/a/5qlq2Kh)]
 
 # Build Photos
 
