@@ -44,18 +44,18 @@ npm run android
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://imgur.com/a/eZN9xib Home page)
+![[Home page](https://imgur.com/a/eZN9xib)]
 *Home Page*
 
-![Screenshot2](https://imgur.com/a/q15ZCB2 Search Result)
+![[Search Result](https://imgur.com/a/q15ZCB2)]
 *Search result*
 
-![Screenshot3](https://imgur.com/a/5qlq2Kh Settings)
+![[Settings](https://imgur.com/a/5qlq2Kh)]
 *Settings*
 
 # Build Photos
 
-![Build](https://imgur.com/a/2d5cbhi)
+![Build Screenshot](https://imgur.com/a/2d5cbhi)
 1 Setup Java
 2 Install all Dependancies
 3 Create Your own keystore and Implementation
