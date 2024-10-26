@@ -40,9 +40,6 @@ cd android
 npm install
 npm run android
 
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 [[Home page](https://imgur.com/a/eZN9xib)]
 
