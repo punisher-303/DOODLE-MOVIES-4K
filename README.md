@@ -45,13 +45,10 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![[Home page](https://imgur.com/a/eZN9xib)]
-*Home Page*
 
 ![[Search Result](https://imgur.com/a/q15ZCB2)]
-*Search result*
 
 ![[Settings](https://imgur.com/a/5qlq2Kh)]
-*Settings*
 
 # Build Photos
 
